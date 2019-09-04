@@ -6,9 +6,8 @@ function Main(){
   /**
    * Função dentro de uma propriedade usada no style.js
    */
-  return <Title error={true}>
-    Bo coda po
-    <small>  menor</small>
+  return <Title>
+    Hello World!
     </Title>
 }
 
